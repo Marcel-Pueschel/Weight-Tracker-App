@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Disclaimer
 
-This project is a starting point for a Flutter application.
+Dear readers!
+This is my first own app project after finishing the course #Dart & Flutter - Zero to Mastery [2023] + Clean Architecture.
+Goal of this project was to apply the learnings I made in this course. At them moment the App provides all feautures(functional) I planed to implement.
+For the future I will include Testing for the whole App and do some minor refactoring to make the code a little bit cleaner with more focus on seperation and reusability.
+Since the course didnt covered any deeper dives into UI/UX design, I didnt prioritized it. But for the next couple of weeks I planned to work through some tutorials/courses which will deal with layout in general and best practices for UI/UX.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you for your attention and have a nice day!
