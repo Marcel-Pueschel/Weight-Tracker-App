@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "858394319518",
+    "project_id": "weight-tracker-a24c4",
+    "storage_bucket": "weight-tracker-a24c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858394319518:android:5c75b01cad3b7387d2798f",
+        "android_client_info": {
+          "package_name": "com.example.weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858394319518-eq98ogslrdarcc174743crdgoavh7ie8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdmXI-g95woN_GZ47fgmK8hJB-7Zqveo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858394319518-eq98ogslrdarcc174743crdgoavh7ie8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858394319518:android:22f1631dfd2e51bfd2798f",
+        "android_client_info": {
+          "package_name": "com.weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858394319518-7s7smmi0n763a7ec9488f5f7kgbbhuoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weight_tracker",
+            "certificate_hash": "d6a6c1fec500bee3bd18c59c0a2806f10af50b0d"
+          }
+        },
+        {
+          "client_id": "858394319518-eq98ogslrdarcc174743crdgoavh7ie8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdmXI-g95woN_GZ47fgmK8hJB-7Zqveo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858394319518-eq98ogslrdarcc174743crdgoavh7ie8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
