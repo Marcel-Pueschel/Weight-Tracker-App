@@ -1,7 +1,5 @@
 # weight_tracker
 
-A new Flutter project.
-
 ## Disclaimer
 
 Dear readers!
